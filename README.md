@@ -69,31 +69,31 @@ Specialization: *Software Engineering*
 ---
 
 ### 🏢 **NCCSoft** 09/2019 - 2022
-**Node.js Backend Developer**  
+**- Node.js Backend Developer**  
 **Project:** Trulet  
 > A real estate platform for buying, selling, and renting properties.
 
 **Stack:** Node.js, Docker, PostgreSQL, AWS, WebSocket, Firebase  
 
-**Fullstack (Node.js & ReactJS)**  
+**- Fullstack (Node.js & ReactJS)**  
 **Project:** Eventx  
 > Event ticket sales and management system.
 
 **Stack:** ReactJS, Redux Toolkit, Node.js, Docker, PostgreSQL  
 
-**Frontend (ReactJS)**  
+**- Frontend (ReactJS)**  
 **Project:** Autobot  
 > UI development and CRUD features.  
 
-**Frontend (ReactJS)**  
+**- Frontend (ReactJS)**  
 **Project:** Techx  
 > Stock exchange web application.  
 
-**Frontend (ReactJS)**  
+**- Frontend (ReactJS)**  
 **Project:** VTH (TECA)  
 > Military equipment management system.  
 
-**Developer (Google Apps Script)**  
+**- Developer (Google Apps Script)**  
 **Project:** Gmail Template Add-on  
 > Add-on to send pre-designed Gmail templates quickly.  
 
