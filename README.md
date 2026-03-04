@@ -68,39 +68,39 @@ Specialization: *Software Engineering*
 
 ---
 
-### 🏢 **NCCSoft**
-**📆 05/2021 – 12/2021 | Node.js Backend Developer**  
+### 🏢 **NCCSoft** 09/2019 - 2022
+**Node.js Backend Developer**  
 **Project:** Trulet  
 > A real estate platform for buying, selling, and renting properties.
 
 **Stack:** Node.js, Docker, PostgreSQL, AWS, WebSocket, Firebase  
 
-**📆 03/2021 – 05/2021 | Fullstack (Node.js & ReactJS)**  
+**Fullstack (Node.js & ReactJS)**  
 **Project:** Eventx  
 > Event ticket sales and management system.
 
 **Stack:** ReactJS, Redux Toolkit, Node.js, Docker, PostgreSQL  
 
-**📆 11/2020 – 03/2021 | Frontend (ReactJS)**  
+**Frontend (ReactJS)**  
 **Project:** Autobot  
 > UI development and CRUD features.  
 
-**📆 06/2020 – 10/2020 | Frontend (ReactJS)**  
+**Frontend (ReactJS)**  
 **Project:** Techx  
 > Stock exchange web application.  
 
-**📆 05/2020 – 07/2020 | Frontend (ReactJS)**  
+**Frontend (ReactJS)**  
 **Project:** VTH (TECA)  
 > Military equipment management system.  
 
-**📆 03/2020 – 04/2020 | Developer (Google Apps Script)**  
+**Developer (Google Apps Script)**  
 **Project:** Gmail Template Add-on  
 > Add-on to send pre-designed Gmail templates quickly.  
 
 ---
 
 ### 🏢 **ICHECK Company**
-**📆 03/2019 – 08/2019 | Node.js Backend Developer**  
+**📆 02/2019 – 08/2019 | Node.js Backend Developer**  
 **Project:** iCheck Product Authentication  
 > Scanning QR codes to verify product origin and avoid counterfeits.
 
