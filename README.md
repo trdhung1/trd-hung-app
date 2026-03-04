@@ -33,7 +33,7 @@ Specialization: *Software Engineering*
 
 ## 💼 Work Experience  
 
-### 🏢 **VATEK Company**
+### 🏢 **VATEK Company** 01/2022 – now
 **📆 11/2024 – 11/2025 | Developer (React Native, ReactJS)**  
 **Project:** HIGHER  
 > A global fandom social platform for K-POP fans to vote, share videos, and interact globally.
